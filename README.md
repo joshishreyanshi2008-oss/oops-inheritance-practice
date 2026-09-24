@@ -14,6 +14,11 @@ different types of inheritance in Object-Oriented Programming.
 - Hierarchical Inheritance
 - Hybrid Inheritance
 
+#Additional concepts:
+-Function Overriding
+-Virtual Base Class
+-Abstract Class
+
 ## Language
 
 C++
